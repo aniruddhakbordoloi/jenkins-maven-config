@@ -11,7 +11,7 @@ public class BuildConfigurator {
 
 	public String buildMyApp(){
 		String testString = "Yo Man!! This is printing!!";
-		System.out.println("I am in my BuildConfigurator class.");
+		System.out.println("I am in my BuildConfigurator class.....");
 		return testString;
 	}
 }
